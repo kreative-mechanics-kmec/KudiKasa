@@ -1,0 +1,2 @@
+# KudiKasa
+KudiKasa is Kreative Mechanics' flagship game. The name KudiKasa is basically a fusion of two words from the Hausa and Ashanti languages meaning "Money Talks", is a city building/simulation game, that teaches users financial literacy in a fun and engaging way.   KudiKasa teaches the basics of loan interest, savings, investments, insurance, taxes, and budgeting.   KudiKasa’ challenges entertains and most importantly educates players to be able to make sound financial decisions in the real world. 
